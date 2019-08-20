@@ -1,11 +1,18 @@
 # SAPHana_R
 Using R to for machine learning with SAP HANA
 
+To be presented at the SAUG National Summit 2019 in Sydney, August 26, 2019.
 
-This presentation will provide an overview of how to use R capabilities to work with machine learning models in SAP HANA. 
+This presentation provides an overview of how to use R capabilities to work with machine learning models in SAP HANA.
 
-The presentation will discuss how R/RStudio can be used to perform all interactions with machine learning capabilities in SAP HANA and an overview of several cases of business problems that this approach can be applied to. 
+Topics covered:
 
-A comparison with other alternative options will be also discussed. 
+- Why R
 
-This presentation is of interest to a wide range of professionals interested in machine learning as well as data scientists exploring new implementation.
+- Why R and SAP HANA
+
+- How machine learning fits in
+
+- Let's go real: real-life business problems and how to solve them
+
+Audience: a wide range of professionals interested in machine learning as well as data scientists exploring new implementation. Some background with SAP HANA and R is preferred but not essential.
